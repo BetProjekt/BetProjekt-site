@@ -1,0 +1,21 @@
+
+
+footer {
+    text-align: center;
+    padding: 15px;
+    background: var(--color-3);
+    margin-top: 15px;
+    font-size: 1.25em;
+    
+}
+
+.footer-cnt{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.footer-cnt img{
+    width: 24px;
+    color: white;
+}
